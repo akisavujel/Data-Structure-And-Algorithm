@@ -10,5 +10,6 @@ class Solution(object):
 '''
 Lmao finally ek week leetcode question gere paxi
 balla aja euta question buje .
-String simple xa solution😁 '''
+String simple xa solution😁
+'''
     
