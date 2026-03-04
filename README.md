@@ -35,3 +35,4 @@ Hi, I'm **Akisha Bhujel**
 This repository represents my commitment to continuous improvement and becoming a strong problem solver, both in algorithms and data science.
 
 ⭐ If you're on a similar path — let’s learn and grow together!
+![Alt text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZoM253MHM5ZGQ4eXc1bTV0bmIxcXE2Ymc3NXg1dXpxMGVsN3NrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cqY3xhwMaEvBaJYmAc/giphy.gif)
